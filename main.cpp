@@ -7,6 +7,9 @@
 main()
 {
 	setlocale(LC_ALL, "rus");
-	printf("Hello \n");	
+	printf("Hello\n");
+	printf("Hello C++\n");
+	printf("Hello Java\n");
+	printf("Hello Spring\n");
 	getch();
 }
