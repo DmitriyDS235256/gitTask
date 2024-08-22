@@ -11,5 +11,7 @@ main()
 	printf("Hello C++\n");
 	printf("Hello Java\n");
 	printf("Hello Spring\n");
+	printf("Hello Js\n");
+	printf("Hello C#\n");
 	getch();
 }
